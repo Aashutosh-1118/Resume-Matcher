@@ -1,0 +1,15 @@
+Sneha Iyer
+sneha.iyer@example.com
+
+SKILLS
+C++, Java, HTML, MS Office
+
+PROJECTS
+- Library management system in Java (console based)
+- Personal portfolio website using HTML and CSS
+
+CERTIFICATIONS
+- Basic Python course (in progress)
+
+EDUCATION
+B.Tech Electronics, final year

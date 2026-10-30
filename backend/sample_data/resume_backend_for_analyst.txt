@@ -1,0 +1,14 @@
+Riya Verma
+riya.verma@example.com | +91 90000 00001 | github.com/riya-demo
+
+SKILLS
+Python, FastAPI, Flask, PostgreSQL, SQL, Redis, Docker, GitHub Actions, AWS (EC2, S3), Git, Linux, pytest
+
+EXPERIENCE
+Backend Developer, Orbit Systems (Jan 2023 - Present, 2.5 years)
+- Built 30+ REST endpoints in FastAPI with JWT authentication for a fleet tracking product
+- Designed PostgreSQL schemas and cut slow report queries from 4s to 600ms using indexes
+- Containerised services with Docker and set up CI/CD with GitHub Actions
+
+EDUCATION
+B.Tech Computer Science, 2022

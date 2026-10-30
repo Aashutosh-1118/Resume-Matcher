@@ -1,0 +1,8 @@
+[
+  {"jd": "jd_backend.txt",  "resume": "resume_backend_strong.txt",      "human_score": 92},
+  {"jd": "jd_backend.txt",  "resume": "resume_backend_medium.txt",      "human_score": 58},
+  {"jd": "jd_backend.txt",  "resume": "resume_fresher_basic.txt",       "human_score": 8},
+  {"jd": "jd_analyst.txt",  "resume": "resume_analyst_strong.txt",      "human_score": 95},
+  {"jd": "jd_analyst.txt",  "resume": "resume_analyst_medium.txt",      "human_score": 62},
+  {"jd": "jd_analyst.txt",  "resume": "resume_backend_for_analyst.txt", "human_score": 30}
+]

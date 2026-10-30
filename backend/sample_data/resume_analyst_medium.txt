@@ -1,0 +1,17 @@
+Pooja Nair
+pooja.nair@example.com
+
+SKILLS
+Excel, SQL, Power BI, Python (basic)
+
+EXPERIENCE
+Data Analytics Intern, Trendly (6 months)
+- Built two Power BI dashboards for sales tracking
+- Wrote SQL queries to pull weekly sales numbers
+- Used Excel pivot tables for monthly reports
+
+PROJECTS
+- Movie ratings analysis in Python using pandas
+
+EDUCATION
+MBA (Business Analytics), 2025

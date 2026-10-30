@@ -1,0 +1,20 @@
+Data Analyst, Brightmart Retail
+
+Join our analytics team to turn sales and customer data into decisions.
+
+Must have
+- 1+ years of experience in an analytics role or internship
+- SQL for querying and joining large tables
+- Python (pandas) for analysis
+- Power BI or Tableau dashboards
+- Excel for quick analysis
+
+Good to have
+- Statistics and A/B testing
+- Basic machine learning
+- Google Analytics
+
+What you will do
+- Build and maintain weekly dashboards
+- Analyse campaign and sales performance
+- Present findings to the business team

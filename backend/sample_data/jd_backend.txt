@@ -1,0 +1,20 @@
+Backend Engineer, Northwind Logistics (Bhopal / Remote)
+
+We are building the APIs behind our shipment tracking platform and need a backend engineer to join a small team.
+
+Requirements
+- 2+ years of experience building backend services
+- Strong Python and FastAPI or Flask
+- Solid SQL and PostgreSQL knowledge
+- Experience with REST API design and JWT authentication
+- Git and basic Linux skills
+
+Nice to have
+- Docker and CI/CD pipelines
+- AWS or any other cloud platform
+- Redis or message queues
+
+Responsibilities
+- Design and ship new API endpoints
+- Write tests and review code
+- Monitor and improve performance of production services

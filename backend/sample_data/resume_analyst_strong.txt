@@ -1,0 +1,18 @@
+Dev Malhotra
+dev.malhotra@example.com | linkedin.com/in/dev-demo
+
+SKILLS
+SQL, Python (pandas, NumPy, matplotlib), Power BI, Tableau, Excel (pivot tables, VLOOKUP), Statistics, A/B testing, scikit-learn, Google Analytics
+
+EXPERIENCE
+Data Analyst, Shopline (Aug 2023 - Present, about 2 years)
+- Built 12 Power BI dashboards used weekly by the marketing and sales teams
+- Wrote SQL to join order, customer and campaign tables, reducing reporting time by 60%
+- Ran A/B tests on checkout changes and reported statistical significance
+- Built a churn model with scikit-learn
+
+Analytics Intern, Greenfield (4 months)
+- Cleaned data with pandas and Excel
+
+EDUCATION
+B.Sc Statistics, 2023

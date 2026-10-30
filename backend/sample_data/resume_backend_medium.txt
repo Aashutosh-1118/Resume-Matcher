@@ -1,0 +1,17 @@
+Karan Mehta
+karan.mehta@example.com | +91 90000 00002
+
+SKILLS
+Python, Django, MySQL, HTML, CSS, Git
+
+EXPERIENCE
+Software Developer, Pixel Works (2 years)
+- Built customer portal features in Django with MySQL
+- Wrote REST APIs using Django REST Framework with token authentication
+- Fixed production bugs and wrote some unit tests
+
+PROJECTS
+- Inventory app: Django + MySQL, deployed on a shared Linux server
+
+EDUCATION
+B.E. Information Technology
